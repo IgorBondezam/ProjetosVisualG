@@ -19,7 +19,7 @@ para cont de 1 ate 5 faca
    ate (number[cont]>=3) e (number[cont]<=120)
 fimpara
 fimprocedimento
-
+//==========================================================
 procedimento ordenar
 var
 cont, i, aux: inteiro
@@ -36,7 +36,7 @@ para cont de 1 ate 4 faca
    fimpara
 fimpara
 fimprocedimento
-
+//==========================================================
 procedimento aparecer
 var
 cont: inteiro
@@ -48,7 +48,7 @@ para cont de 1 ate 5 faca
 fimpara
 
 fimprocedimento
-
+//==========================================================
 inicio
 
 pegarN
